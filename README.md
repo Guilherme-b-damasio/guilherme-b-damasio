@@ -53,3 +53,7 @@ Se você está procurando um colaborador entusiasmado e dedicado, estou disponí
 - [Website/Blog](https://mgtechbr.com)
 
 Sinta-se à vontade para explorar meus projetos aqui no GitHub e entrar em contato comigo se quiser discutir colaborações ou oportunidades de trabalho!
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=guilherme-b-damasio&show_icons=true&count_private=true&hide_border=true&title_color=2f80ed&icon_color=2f80ed&show_owner=true&bg_color=0d1117)
+
+
