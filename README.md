@@ -1,9 +1,8 @@
 # 👋 Olá! Prazer em conhecê-lo aqui no meu perfil do GitHub!
 
-Me chamo Guilherme Boeira, sou um desenvolvedor de sistemas com foco em backend e uma paixão por resolver problemas complexos através de código. Estou constantemente buscando desafios que me permitam expandir meus horizontes e aprimorar minhas habilidades.
+Me chamo Guilherme Boeira, sou um desenvolvedor de sistemas com foco em backend
 
 # 🌱 Sobre Mim
-Além do meu foco em backend, tenho explorado o desenvolvimento frontend, especialmente em HTML e CSS. Embora minha experiência em frontend ainda esteja em desenvolvimento, estou comprometido em aprender e melhorar minhas habilidades nessa área.
 
 Estou constantemente buscando oportunidades para aprender e me atualizar sobre as últimas tendências e tecnologias no campo do desenvolvimento de software. Estou aberto a colaborações em projetos interessantes e estou disponível para oportunidades de trabalho que me permitam crescer e adquirir experiência.
 
@@ -11,29 +10,10 @@ Se você está procurando um colaborador entusiasmado e dedicado, estou disponí
 
 ## 🚀 Tecnologias e Ferramentas
 
-### Linguagens de Programação
-
-- PHP
-- JS
-- Java
-- C++
-- Python
-
-### Frameworks
-- Laravel
-- Bootstrap
-- Django
-
-### Bancos de Dados
-- Mysql
-- Oracle
-- MongoDB
-
-
-### Ferramentas de Desenvolvimento
-- Git
-- Docker
-
+- **Linguagens de Programação:** PHP, JavaScript (JS), Java, C++, Python
+- **Frameworks:** Laravel, Bootstrap, Django
+- **Bancos de Dados:** MySQL, Oracle, MongoDB
+- **Ferramentas de Desenvolvimento:** Git, Docker
 
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -54,6 +34,7 @@ Se você está procurando um colaborador entusiasmado e dedicado, estou disponí
 
 Sinta-se à vontade para explorar meus projetos aqui no GitHub e entrar em contato comigo se quiser discutir colaborações ou oportunidades de trabalho!
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=guilherme-b-damasio&show_icons=true&count_private=true&hide_border=true&title_color=2f80ed&icon_color=2f80ed&show_owner=true&bg_color=0d1117)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=guilherme-b-damasio&show_icons=true&count_private=true&hide_border=true&title_color=2f80ed&icon_color=2f80ed&show_owner=true&bg_color=0d1117&text_color=ffffff)
+
 
 
