@@ -1,0 +1,48 @@
+<svg width="600" height="150" viewBox="0 0 600 150" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .header {
+      font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
+      fill: #2f80ed;
+      animation: fadeInAnimation 0.8s ease-in-out forwards;
+    }
+
+    .stat {
+      font: 600 14px 'Segoe UI', Ubuntu, Sans-Serif;
+      fill: #333;
+    }
+
+    .stagger {
+      opacity: 0;
+      animation: fadeInAnimation 0.3s forwards;
+    }
+
+    .rank-text {
+      font: 400 12px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif;
+      fill: #333;
+    }
+
+    .bold { font-weight: 700; }
+
+    @keyframes fadeInAnimation {
+      0% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+  </style>
+  <rect data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#E4E2E2" width="99%" fill="#FFF" stroke-opacity="1"/>
+  <g transform="translate(0, 0)">
+    <g data-testid="header" transform="translate(25, 35)">
+      <text x="0" y="0" class="header" data-testid="header-text">GitHub Stats</text>
+    </g>
+    <g transform="translate(0, 60)">
+      <rect width="600" height="2" fill="#E4E2E2"/>
+      <g transform="translate(25, 80)">
+        <g transform="translate(0, 5)">
+          <text x="0" y="0" class="stat">Contribuições no Ano: <text class="bold">{{CONTRIBUTIONS_YEAR}}</text></text>
+        </g>
+        <g transform="translate(0, 25)">
+          <text x="0" y="0" class="stat">Contribuições Total: <text class="bold">{{CONTRIBUTIONS_TOTAL}}</text></text>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
