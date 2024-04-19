@@ -10,10 +10,10 @@ Se você está procurando um colaborador entusiasmado e dedicado, estou disponí
 
 ## 🚀 Tecnologias e Ferramentas
 
-- **Linguagens de Programação:** PHP, JavaScript (JS), Java, C++, Python
-- **Frameworks:** Laravel, Bootstrap, Django
+- **Linguagens de Programação:** PHP, JavaScript (JS), Java
+- **Frameworks:** Bootstrap
 - **Bancos de Dados:** MySQL, Oracle, MongoDB
-- **Ferramentas de Desenvolvimento:** Git, Docker
+- **Ferramentas de Desenvolvimento:** Git
 
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -22,10 +22,8 @@ Se você está procurando um colaborador entusiasmado e dedicado, estou disponí
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ## 📫 Como Entrar em Contato
 
