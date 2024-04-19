@@ -10,7 +10,7 @@ Se você está procurando um colaborador entusiasmado e dedicado, estou disponí
 
 ## 🚀 Tecnologias e Ferramentas
 
-- **Linguagens de Programação:** PHP, JavaScript (JS), Java
+- **Linguagens de Programação:** PHP, JavaScript, Java
 - **Frameworks:** Bootstrap
 - **Bancos de Dados:** MySQL, Oracle, MongoDB
 - **Ferramentas de Desenvolvimento:** Git
