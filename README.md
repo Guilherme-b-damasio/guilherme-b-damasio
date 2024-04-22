@@ -10,10 +10,15 @@ Se você está procurando um colaborador entusiasmado e dedicado, estou disponí
 
 ## 🚀 Tecnologias e Ferramentas
 
-- **Linguagens de Programação:** PHP, JavaScript, Java
+- **Linguagens de Programação:** PHP, JavaScript, Java                                                                                        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-b-damasio&theme=dark)
 - **Frameworks:** Bootstrap
 - **Bancos de Dados:** MySQL, Oracle, MongoDB
-- **Ferramentas de Desenvolvimento:** Git
+- **Ferramentas de Desenvolvimento:** Git 
+
+
+### Portfólio
+- [Biblioteca Digital]([https://github.com/guilherme-b-damasio/meu-projeto](https://github.com/Guilherme-b-damasio/Digiteca.git))
+- [SistemasHUB]([[https://github.com/guilherme-b-damasio/meu-projeto](https://github.com/Guilherme-b-damasio/Digiteca.git)](https://github.com/Guilherme-b-damasio/SistemasHUB.git))
 
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -32,7 +37,14 @@ Se você está procurando um colaborador entusiasmado e dedicado, estou disponí
 
 Sinta-se à vontade para explorar meus projetos aqui no GitHub e entrar em contato comigo se quiser discutir colaborações ou oportunidades de trabalho!
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=guilherme-b-damasio&show_icons=true&count_private=true&hide_border=true&title_color=2f80ed&icon_color=2f80ed&show_owner=true&bg_color=0d1117&text_color=ffffff)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=guilherme-b-damasio&show_icons=true&count_private=true&hide_border=true&title_color=00ff00&icon_color=2f80ed&show_owner=true&bg_color=0d1117&text_color=ffffff
+)
+
+
+
+
+
+
 
 
 
