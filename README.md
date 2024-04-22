@@ -10,16 +10,15 @@ Se você está procurando um colaborador entusiasmado e dedicado, estou disponí
 
 ## 🚀 Tecnologias e Ferramentas
 
-- **Linguagens de Programação:** PHP, JavaScript, Java                                                                                        ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-b-damasio&theme=dark)
+- **Linguagens de Programação:** PHP, JavaScript, Java                                                                                        
 - **Frameworks:** Bootstrap
 - **Bancos de Dados:** MySQL, Oracle, MongoDB
-- **Ferramentas de Desenvolvimento:** Git 
-
+- **Ferramentas de Desenvolvimento:** Git
 
 ### Portfólio
-- [Biblioteca Digital]([https://github.com/guilherme-b-damasio/meu-projeto](https://github.com/Guilherme-b-damasio/Digiteca.git))
-- [SistemasHUB]([[https://github.com/guilherme-b-damasio/meu-projeto](https://github.com/Guilherme-b-damasio/Digiteca.git)](https://github.com/Guilherme-b-damasio/SistemasHUB.git))
-
+- [Biblioteca Digital](https://github.com/Guilherme-b-damasio/Digiteca.git)
+- [SistemasHUB](https://github.com/Guilherme-b-damasio/SistemasHUB.git)
+- [MedControl](https://github.com/Guilherme-b-damasio/MedControl-GCM.git)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
