@@ -4,16 +4,15 @@ Me chamo Guilherme Boeira, sou um desenvolvedor de sistemas com foco em backend
 
 # 🌱 Sobre Mim
 
-Estou constantemente buscando oportunidades para aprender e me atualizar sobre as últimas tendências e tecnologias no campo do desenvolvimento de software. Estou aberto a colaborações em projetos interessantes e estou disponível para oportunidades de trabalho que me permitam crescer e adquirir experiência.
+Estou constantemente buscando oportunidades para aprender e me atualizar sobre as últimas tendências e tecnologias no campo do desenvolvimento de software. Estou aberto a colaborações em projetos interessantes.
 
-Se você está procurando um colaborador entusiasmado e dedicado, estou disponível para discutir como posso contribuir para o seu projeto. Não hesite em entrar em contato!
 
 ## 🚀 Tecnologias e Ferramentas
 
 - **Linguagens de Programação:** PHP, JavaScript, Java                                                                                        
-- **Frameworks:** Bootstrap
+- **Frameworks:** Bootstrap, Laravel 10/11, React
 - **Bancos de Dados:** MySQL, Oracle, MongoDB
-- **Ferramentas de Desenvolvimento:** Git
+- **Ferramentas de Desenvolvimento:** Git, Dokcer
 
 ### Portfólio
 - [Biblioteca Digital](https://github.com/Guilherme-b-damasio/Digiteca.git)
