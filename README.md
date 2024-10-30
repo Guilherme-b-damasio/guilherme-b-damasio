@@ -27,6 +27,9 @@ Estou constantemente buscando oportunidades para aprender e me atualizar sobre a
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-laravel?style=for-the-badge&logo=laravel&logoColor=orange)
+![Docker](https://img.shields.io/badge/docker-docker?style=for-the-badge&logo=docker&logoColor=blue)
+
 
 ## 📫 Como Entrar em Contato
 
