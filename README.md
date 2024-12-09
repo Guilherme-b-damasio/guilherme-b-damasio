@@ -14,11 +14,6 @@ Estou constantemente buscando oportunidades para aprender e me atualizar sobre a
 - **Bancos de Dados:** MySQL, Oracle, MongoDB
 - **Ferramentas de Desenvolvimento:** Git, Dokcer
 
-### Portfólio
-- [Biblioteca Digital](https://github.com/Guilherme-b-damasio/Digiteca.git)
-- [SistemasHUB](https://github.com/Guilherme-b-damasio/SistemasHUB.git)
-- [MedControl](https://github.com/Guilherme-b-damasio/MedControl-GCM.git)
-
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
