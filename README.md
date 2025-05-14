@@ -1,6 +1,6 @@
 # 👋 Olá! Prazer em conhecê-lo aqui no meu perfil do GitHub!
 
-Me chamo Guilherme Boeira, sou um desenvolvedor de sistemas com foco em backend
+Me chamo Guilherme Boeira, sou um desenvolvedor de sistemas com foco em backend e com aquele pézinho no frontend
 
 # 🌱 Sobre Mim
 
