@@ -49,17 +49,6 @@ I care about performance, maintainability, test coverage and delivering clean, r
 - 📦 [**Google Maps Scraper Panel**](https://github.com/) – Painel Next.js + Laravel para visualização e gestão de scraping automatizado.
 - ⚙️ [**Simple Bank (Clean Architecture)**](https://github.com/Guilherme-b-damasio/simpleBank) – Sistema de contas e transferências com backend Laravel + frontend React.
 
----
-
-## 📈 GitHub Stats
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherme-b-damasio&show_icons=true&text_color=00aaff&locale=en&layout=compact" alt="guilherme-b-damasio" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilherme-b-damasio&show_icons=true&locale=en" alt="guilherme-b-damasio" /></p>
-
----
-
 ## 📫 Let's Connect
 
 - 📧 Email: [gbdjobs2@gmail.com](mailto:gbdjobs2@gmail.com)
