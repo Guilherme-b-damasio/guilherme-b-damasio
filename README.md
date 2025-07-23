@@ -53,11 +53,10 @@ I care about performance, maintainability, test coverage and delivering clean, r
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilherme-b-damasio&theme=dark&hide_border=true" alt="Streak Stats"/>
-  <br><br>
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=guilherme-b-damasio&theme=react-dark" alt="Activity Graph"/>
-</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=guilherme-b-damasio&show_icons=true&text_color=00aaff&locale=en&layout=compact" alt="guilherme-b-damasio" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=guilherme-b-damasio&show_icons=true&locale=en" alt="guilherme-b-damasio" /></p>
 
 ---
 
