@@ -1,65 +1,73 @@
-# 👋 Olá! Seja bem-vindo(a) ao meu perfil no GitHub
+<h1 align="center">🚀 Guilherme Boeira</h1>
+<h3 align="center">💻 Fullstack Developer apaixonado por backend | Entusiasta de sistemas escaláveis</h3>
 
-Me chamo **Guilherme Boeira**, sou um desenvolvedor apaixonado por resolver problemas com código. Atuo principalmente com **backend**, mas com aquele pé firme no **frontend** também. Curioso por natureza, adoro aprender e criar soluções robustas e escaláveis.
-
----
-
-## 🌱 Sobre Mim
-
-Sou movido por desafios técnicos e pelo desejo constante de evolução. Trabalho com desenvolvimento de software focando em **qualidade de código**, **boas práticas**, **testes automatizados** e **metodologias ágeis**.
-
-Tenho experiência tanto em sistemas corporativos robustos quanto em projetos modernos baseados em arquitetura limpa e microsserviços.
+<p align="center">
+  <a href="https://www.linkedin.com/in/guilherme-boeira-damasio/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:gbdjobs2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://instagram.com/guiboeirad"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
+  <a href="https://dev.to/guimk9"><img alt="Dev.to" src="https://img.shields.io/badge/-Dev.to-0A0A0A?style=flat&logo=dev.to&logoColor=white"/></a>
+</p>
 
 ---
 
-## 🚀 Tecnologias e Ferramentas que utilizo
+## 🧑‍💻 About Me
 
-### 💻 Linguagens
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+I'm a passionate fullstack developer based in Brazil 🇧🇷 who loves solving real-world problems through code.
 
-### ⚙️ Frameworks e Bibliotecas
-![Laravel](https://img.shields.io/badge/Laravel-F9322C?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+I specialize in **backend development** with PHP (Laravel, Slim) and build robust web systems using Clean Architecture and SOLID principles. I also enjoy working with **React**, **Vue**, and creating intuitive UIs.
 
-### 🧪 Qualidade e Testes
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
-![PHPUnit](https://img.shields.io/badge/PHPUnit-6C1D45?style=for-the-badge&logo=php&logoColor=white)
-![Coverage](https://img.shields.io/badge/Testes%20Unitários-100%25%20Coverage-brightgreen?style=for-the-badge)
+Currently exploring **Go (Golang)** to build scalable microservices and distributed systems.
 
-### ☁️ Cloud & DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-
-### 🧠 Arquitetura e Metodologias
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-%23007ACC?style=for-the-badge)
-![Agile](https://img.shields.io/badge/Agile%20Methodologies-FD7E14?style=for-the-badge&logo=scrumalliance&logoColor=white)
-
-### 🛢️ Bancos de Dados
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+I care about performance, maintainability, test coverage and delivering clean, reliable code.
 
 ---
 
-## 📫 Como Falar Comigo
+## 🛠️ Tech Stack
 
-- 🌐 [Website/Blog](https://mgtechbr.com)
+### 🔧 Backend
+`Laravel` · `PHP`  · `Node.js` · `Java` · `Kafka`
+
+### 🎨 Frontend
+`React` · `Vue.js` · `Tailwind CSS` · `Bootstrap` · `SASS/SCSS`
+
+### ☁️ DevOps & Cloud
+`Docker` · `NGINX` · `GCP` · `Azure` · `AWS (basics)` · `CI/CD`
+
+### 🧪 Testing & Quality
+`PHPUnit` · `Postman` · `TDD` · `SQLite for Tests`
+
+### 🛢️ Databases
+`MySQL` · `PostgreSQL` · `Oracle` · `MongoDB` · `SQLite`
+
+### 📦 Others
+`Git` · `Inertia.js` · `Pinia` · `Axios` · `Laravel Pint` · `Swagger` · `REST API` · `GraphQL`
+
+---
+
+## 🌟 Featured Projects
+
+- 📦 [**Google Maps Scraper Panel**](https://github.com/) – Painel Next.js + Laravel para visualização e gestão de scraping automatizado.
+- ⚙️ [**Simple Bank (Clean Architecture)**](https://github.com/Guilherme-b-damasio/simpleBank) – Sistema de contas e transferências com backend Laravel + frontend React.
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guilherme-b-damasio&theme=dark&hide_border=true" alt="Streak Stats"/>
+  <br><br>
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=guilherme-b-damasio&theme=react-dark" alt="Activity Graph"/>
+</p>
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: [gbdjobs2@gmail.com](mailto:gbdjobs2@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-boeira-damasio/)
-
-Sinta-se à vontade para explorar meus repositórios e entrar em contato caso tenha interesse em discutir ideias, parcerias ou oportunidades profissionais!
-
----
-
-## 📈 Estatísticas
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=guilherme-b-damasio&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=00ff00&icon_color=2f80ed&show_owner=true&bg_color=0d1117&text_color=ffffff&cache_seconds=600)
+- 📝 [Dev.to](https://dev.to/guimk9)
+- 📸 [Instagram](https://instagram.com/guiboeirad)
 
 ---
 
-⭐ Obrigado por visitar meu perfil. Que o código esteja com você! 🚀
+> ⭐ Let’s build something amazing together. May the code be with you! 🚀
