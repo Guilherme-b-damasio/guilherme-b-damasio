@@ -54,7 +54,6 @@ I care about performance, maintainability, test coverage and delivering clean, r
 - 📧 Email: [tabletgbd@gmail.com](mailto:tabletgbd@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-boeira-damasio/)
 - 📝 [Dev.to](https://dev.to/guimk9)
-- 📸 [Instagram](https://instagram.com/guiboeirad)
 
 ---
 
