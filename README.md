@@ -10,7 +10,7 @@
 </p>
 
 <details open>
-<summary><b>🇺🇸 Read in English</b></summary>
+<summary><picture><img alt="EN · Read in English" src="https://img.shields.io/badge/EN-Read%20in%20English-1F6FEB?style=for-the-badge&labelColor=30363D" align="center"/></picture></summary>
 
 ### About
 
@@ -61,7 +61,7 @@ Devs sign in with GitHub and become a character card made of their own stats —
 </details>
 
 <details>
-<summary><b>🇧🇷 Ler em português</b></summary>
+<summary><picture><img alt="PT-BR · Ler em português" src="https://img.shields.io/badge/PT--BR-Ler%20em%20portugu%C3%AAs-2EA043?style=for-the-badge&labelColor=30363D" align="center"/></picture></summary>
 
 ### Sobre
 
