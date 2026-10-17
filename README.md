@@ -1,7 +1,12 @@
+<p align="right">
+  <b>🇺🇸 English</b> · <a href="README.pt-BR.md">🇧🇷 Português</a>
+</p>
+
 <h1 align="center">Guilherme Boeira Damasio</h1>
 <h3 align="center">Backend Software Engineer · Node.js / TypeScript · PHP · AWS Serverless & Event-Driven Architecture</h3>
 
 <p align="center">
+  <a href="https://portfolio.devdek.online" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/guilherme-boeira-damasio/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"/></a>
   <a href="mailto:tabletgbd@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://dev.to/guimk9" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
@@ -14,13 +19,27 @@
 
 Backend engineer based in Joinville 🇧🇷, working on systems that have to stay up and stay correct under load.
 
-Today I build **APIs in Node.js (Express, NestJS) with TypeScript** for a vehicle tracking and fleet management platform — an **event-driven pipeline on SQS/SNS that processes millions of tracker positions per day**, with async processing and resilient reprocessing. I write **AWS Lambda** functions for asynchronous workloads and integrations, integrate **IoT devices** and third-party systems, and take care of the services running on **Kubernetes (EKS/Rancher)** along with the GitHub Actions deploy pipelines.
-
-Before that I spent ~2 years on **PHP** in a LIMS platform, implementing critical calculation routines with **DDD and Clean Architecture** and taking test coverage from **10% to 40%** with PHPUnit while refactoring legacy modules.
+- 🚚 **Now:** APIs in **Node.js (Express, NestJS) with TypeScript** for a vehicle tracking and fleet management platform — an **event-driven pipeline on SQS/SNS that processes millions of tracker positions per day**, with async processing and resilient reprocessing. **AWS Lambda** for asynchronous workloads and integrations, **IoT devices** and third-party systems, and the services running on **Kubernetes (EKS/Rancher)** with their GitHub Actions deploy pipelines.
+- 🧪 **Before:** ~2 years on **PHP** in a LIMS platform, implementing critical calculation routines with **DDD and Clean Architecture** and taking test coverage from **10% to 40%** with PHPUnit while refactoring legacy modules.
+- 🤖 **Learning in public:** **applied AI** — LLM integrations, RAG and **MCP servers**. [docsage](https://github.com/Guilherme-b-damasio/docsage) is where that goes.
 
 What I care about: clear boundaries, tests that mean something, observability before the incident, and code the next person can read.
 
-Currently going deeper into **applied AI** — LLM integrations, RAG, and building **MCP servers**.
+---
+
+## Featured: docsage
+
+> **Ask questions about your own documents** — a RAG CLI and MCP server in Python, built with Claude.
+
+[**docsage**](https://github.com/Guilherme-b-damasio/docsage) indexes Markdown, text, HTML, Word and PDF files (and web pages by URL), retrieves the most relevant passages and asks Claude for an answer that **cites its sources** — down to the heading path or the PDF page.
+
+- **Retrieval you can tune:** BM25, local embeddings (sentence-transformers) or **hybrid** with reciprocal rank fusion, plus optional **re-ranking by Claude**
+- **Measured, not guessed:** `docsage evaluate` reports recall@k on labeled queries; every result explains its score term by term
+- **MCP server** (stdio and HTTP) so Claude Code and Claude Desktop can search your docs, with **MCP Apps** HTML reports showing highlighted citations
+- Incremental indexing, prompt caching, token usage and cost per answer, English and Portuguese aware
+- Clean Architecture (domain / application / infrastructure / interfaces), SOLID, **460+ tests**, CI with ruff and mypy, git flow
+
+`Python` · `Claude API` · `MCP` · `BM25` · `sentence-transformers` · `pytest`
 
 ---
 
@@ -48,6 +67,16 @@ Currently going deeper into **applied AI** — LLM integrations, RAG, and buildi
   <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge"/>
   <img alt="API Gateway" src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge"/>
   <img alt="Serverless" src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white"/>
+</p>
+
+**Applied AI**
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Claude API" src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img alt="MCP" src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/>
+  <img alt="RAG" src="https://img.shields.io/badge/RAG-4B5563?style=for-the-badge"/>
+  <img alt="sentence-transformers" src="https://img.shields.io/badge/sentence--transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
 **Databases**
@@ -78,13 +107,15 @@ Currently going deeper into **applied AI** — LLM integrations, RAG, and buildi
 <p>
   <img alt="Sentry" src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
   <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+  <img alt="pytest" src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
   <img alt="Cypress" src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=black"/>
   <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-**Also worked with**
-
+<details>
+<summary><b>Also worked with</b></summary>
+<br/>
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
@@ -95,6 +126,7 @@ Currently going deeper into **applied AI** — LLM integrations, RAG, and buildi
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
 </p>
+</details>
 
 **Architecture & practices**
 
@@ -106,25 +138,28 @@ Currently going deeper into **applied AI** — LLM integrations, RAG, and buildi
 
 ### DevDek — a collectible card game built on the Joinville tech scene
 
-Devs sign in with GitHub and become a character card made of their own stats — languages as powers, activity, badges. Companies are checkpoints on a 3D map: get physically close to one and you earn its badge card. Two separate codebases, private for now.
+Devs sign in with GitHub and become a character card made of their own stats — languages as powers, activity, badges. Companies are checkpoints on a 3D map: get physically close to one and you earn its badge card. Two separate codebases, private for now — see it at [portfolio.devdek.online](https://portfolio.devdek.online).
 
 | Project | What I did | Stack |
 | --- | --- | --- |
 | **DevDek — Backend** 🔒 | The API and the game rules: GitHub OAuth issuing JWTs, card generation rendered server-side to images, **real-time card battles over WebSockets**, geolocation check-ins against curated company checkpoints, community submissions with a moderation flow, and logo delivery through Cloudflare R2. Migrated persistence from Mongoose/MongoDB to **Prisma/PostgreSQL**. Battle rules are covered by simulation scripts that check invariants across thousands of generated duels. | `NestJS` · `TypeScript` · `Prisma` · `PostgreSQL` · `Socket.IO` · `Passport (GitHub OAuth, JWT)` · `Satori/resvg` · `Cloudflare R2` · `Docker` |
-| **DevDek — Mobile** 🔒 | Android app on **Expo SDK 57** with expo-router, consuming the same API as the web client. GitHub OAuth through a system browser tab with a `devdek://` deep link back (no embedded WebView — GitHub blocks OAuth there, and the user needs to see the address bar), secure token storage, card collection with filters, native MapLibre map, GPS check-ins, camera-based QR and 3D rendering with react-three-fiber. | `React Native` · `Expo` · `TypeScript` · `expo-router` · `MapLibre` · `react-three-fiber` · `expo-location` · `expo-secure-store` · `Socket.IO` |
+| **DevDek — Mobile** 🔒 | Android app on **Expo** with expo-router, consuming the same API as the web client. GitHub OAuth through a system browser tab with a `devdek://` deep link back (no embedded WebView — GitHub blocks OAuth there, and the user needs to see the address bar), secure token storage, card collection with filters, native MapLibre map, GPS check-ins, camera-based QR and 3D rendering with react-three-fiber. | `React Native` · `Expo` · `TypeScript` · `expo-router` · `MapLibre` · `react-three-fiber` · `expo-location` · `expo-secure-store` · `Socket.IO` |
 
 ### Open source
 
 | Project | What it is | Stack |
 | --- | --- | --- |
+| [**docsage**](https://github.com/Guilherme-b-damasio/docsage) | RAG over your own documents: CLI and MCP server that index Markdown, HTML, Word, PDF and web pages, retrieve with BM25 / embeddings / hybrid search and answer with Claude, citing the sources. | `Python` · `Claude API` · `MCP` · `sentence-transformers` |
 | [**Asaas Payment Gateway for Bagisto**](https://github.com/Guilherme-b-damasio/AsaasApiBagisto) | Two complementary packages integrating the Asaas gateway into Bagisto — PIX, boleto and credit card — exposing REST endpoints and handling payment webhooks (`PAYMENT_CONFIRMED`, `PAYMENT_RECEIVED`, `PAYMENT_REFUNDED`). | `PHP 8.1+` · `Laravel` · `Bagisto` · `REST API` · `Webhooks` |
 | [**VulnUI**](https://github.com/Guilherme-b-damasio/vulnui) | Dashboard that orchestrates **OWASP ZAP** and **Nikto** scans from a single interface: spider crawling, active scanning, real-time progress and report history with risk categorization. | `Next.js 15` · `TypeScript` · `Tailwind CSS 4` · `Docker` |
 | [**vuln.ai**](https://github.com/Guilherme-b-damasio/vuln.ai) | The scanning engine behind VulnUI — a Python orchestrator that drives the ZAP API and the Nikto CLI and consolidates the findings. | `Python` · `OWASP ZAP API` · `Nikto` |
 
+---
+
 ## GitHub
 
 <p align="center">
-  <img alt="GitHub streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-b-damasio&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Guilherme-b-damasio&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
 </p>
 
 <p align="center">
@@ -136,6 +171,6 @@ Devs sign in with GitHub and become a character card made of their own stats —
 
 ## Let's Connect
 
-📧 [tabletgbd@gmail.com](mailto:tabletgbd@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-boeira-damasio/) · 📝 [Dev.to](https://dev.to/guimk9)
+🌐 [portfolio.devdek.online](https://portfolio.devdek.online) · 📧 [tabletgbd@gmail.com](mailto:tabletgbd@gmail.com) · 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-boeira-damasio/) · 📝 [Dev.to](https://dev.to/guimk9)
 
 <p align="center"><i>Open to conversations about backend architecture, distributed systems and applied AI.</i></p>
