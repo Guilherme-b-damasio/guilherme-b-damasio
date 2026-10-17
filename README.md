@@ -14,11 +14,11 @@
 
 ### About
 
-Backend engineer based in Joinville 🇧🇷, working on systems that have to stay up and stay correct under load.
+Backend engineer based in Joinville, Brazil, working on systems that have to stay up and stay correct under load.
 
-- 🚚 **Now:** APIs in **Node.js (Express, NestJS) with TypeScript** for a vehicle tracking and fleet management platform — an **event-driven pipeline on SQS/SNS that processes millions of tracker positions per day**, with async processing and resilient reprocessing. **AWS Lambda** for asynchronous workloads and integrations, **IoT devices** and third-party systems, and the services running on **Kubernetes (EKS/Rancher)** with their GitHub Actions deploy pipelines.
-- 🧪 **Before:** ~2 years on **PHP** in a LIMS platform, implementing critical calculation routines with **DDD and Clean Architecture** and taking test coverage from **10% to 40%** with PHPUnit while refactoring legacy modules.
-- 🤖 **Learning in public:** **applied AI** — LLM integrations, RAG and **MCP servers**. [docsage](https://github.com/Guilherme-b-damasio/docsage) is where that goes.
+- **Now:** APIs in **Node.js (Express, NestJS) with TypeScript** for a vehicle tracking and fleet management platform — an **event-driven pipeline on SQS/SNS that processes millions of tracker positions per day**, with async processing and resilient reprocessing. **AWS Lambda** for asynchronous workloads and integrations, **IoT devices** and third-party systems, and the services running on **Kubernetes (EKS/Rancher)** with their GitHub Actions deploy pipelines.
+- **Before:** ~2 years on **PHP** in a LIMS platform, implementing critical calculation routines with **DDD and Clean Architecture** and taking test coverage from **10% to 40%** with PHPUnit while refactoring legacy modules.
+- **Learning in public:** **applied AI** — LLM integrations, RAG and **MCP servers**. [docsage](https://github.com/Guilherme-b-damasio/docsage) is where that goes.
 
 What I care about: clear boundaries, tests that mean something, observability before the incident, and code the next person can read.
 
@@ -46,8 +46,8 @@ Devs sign in with GitHub and become a character card made of their own stats —
 
 | Project | What I did | Stack |
 | --- | --- | --- |
-| **DevDek — Backend** 🔒 | The API and the game rules: GitHub OAuth issuing JWTs, card generation rendered server-side to images, **real-time card battles over WebSockets**, geolocation check-ins against curated company checkpoints, community submissions with a moderation flow, and logo delivery through Cloudflare R2. Migrated persistence from Mongoose/MongoDB to **Prisma/PostgreSQL**. Battle rules are covered by simulation scripts that check invariants across thousands of generated duels. | `NestJS` · `TypeScript` · `Prisma` · `PostgreSQL` · `Socket.IO` · `Passport (GitHub OAuth, JWT)` · `Satori/resvg` · `Cloudflare R2` · `Docker` |
-| **DevDek — Mobile** 🔒 | Android app on **Expo** with expo-router, consuming the same API as the web client. GitHub OAuth through a system browser tab with a `devdek://` deep link back (no embedded WebView — GitHub blocks OAuth there, and the user needs to see the address bar), secure token storage, card collection with filters, native MapLibre map, GPS check-ins, camera-based QR and 3D rendering with react-three-fiber. | `React Native` · `Expo` · `TypeScript` · `expo-router` · `MapLibre` · `react-three-fiber` · `expo-location` · `expo-secure-store` · `Socket.IO` |
+| **DevDek — Backend** | The API and the game rules: GitHub OAuth issuing JWTs, card generation rendered server-side to images, **real-time card battles over WebSockets**, geolocation check-ins against curated company checkpoints, community submissions with a moderation flow, and logo delivery through Cloudflare R2. Migrated persistence from Mongoose/MongoDB to **Prisma/PostgreSQL**. Battle rules are covered by simulation scripts that check invariants across thousands of generated duels. | `NestJS` · `TypeScript` · `Prisma` · `PostgreSQL` · `Socket.IO` · `Passport (GitHub OAuth, JWT)` · `Satori/resvg` · `Cloudflare R2` · `Docker` |
+| **DevDek — Mobile** | Android app on **Expo** with expo-router, consuming the same API as the web client. GitHub OAuth through a system browser tab with a `devdek://` deep link back (no embedded WebView — GitHub blocks OAuth there, and the user needs to see the address bar), secure token storage, card collection with filters, native MapLibre map, GPS check-ins, camera-based QR and 3D rendering with react-three-fiber. | `React Native` · `Expo` · `TypeScript` · `expo-router` · `MapLibre` · `react-three-fiber` · `expo-location` · `expo-secure-store` · `Socket.IO` |
 
 #### Open source
 
@@ -65,11 +65,11 @@ Devs sign in with GitHub and become a character card made of their own stats —
 
 ### Sobre
 
-Engenheiro backend em Joinville 🇧🇷, trabalhando em sistemas que precisam continuar no ar e continuar corretos sob carga.
+Engenheiro backend em Joinville (SC), trabalhando em sistemas que precisam continuar no ar e continuar corretos sob carga.
 
-- 🚚 **Hoje:** APIs em **Node.js (Express, NestJS) com TypeScript** para uma plataforma de rastreamento veicular e gestão de frotas — um **pipeline orientado a eventos em SQS/SNS que processa milhões de posições de rastreadores por dia**, com processamento assíncrono e reprocessamento resiliente. **AWS Lambda** para cargas assíncronas e integrações, **dispositivos IoT** e sistemas de terceiros, e os serviços rodando em **Kubernetes (EKS/Rancher)** com seus pipelines de deploy no GitHub Actions.
-- 🧪 **Antes:** ~2 anos com **PHP** em uma plataforma LIMS, implementando rotinas de cálculo críticas com **DDD e Clean Architecture** e levando a cobertura de testes de **10% para 40%** com PHPUnit enquanto refatorava módulos legados.
-- 🤖 **Aprendendo em público:** **IA aplicada** — integrações com LLMs, RAG e **servidores MCP**. O [docsage](https://github.com/Guilherme-b-damasio/docsage) é onde isso vai parar.
+- **Hoje:** APIs em **Node.js (Express, NestJS) com TypeScript** para uma plataforma de rastreamento veicular e gestão de frotas — um **pipeline orientado a eventos em SQS/SNS que processa milhões de posições de rastreadores por dia**, com processamento assíncrono e reprocessamento resiliente. **AWS Lambda** para cargas assíncronas e integrações, **dispositivos IoT** e sistemas de terceiros, e os serviços rodando em **Kubernetes (EKS/Rancher)** com seus pipelines de deploy no GitHub Actions.
+- **Antes:** ~2 anos com **PHP** em uma plataforma LIMS, implementando rotinas de cálculo críticas com **DDD e Clean Architecture** e levando a cobertura de testes de **10% para 40%** com PHPUnit enquanto refatorava módulos legados.
+- **Aprendendo em público:** **IA aplicada** — integrações com LLMs, RAG e **servidores MCP**. O [docsage](https://github.com/Guilherme-b-damasio/docsage) é onde isso vai parar.
 
 O que me importa: fronteiras claras, testes que significam alguma coisa, observabilidade antes do incidente e código que a próxima pessoa consegue ler.
 
@@ -97,8 +97,8 @@ Devs entram com o GitHub e viram uma carta de personagem feita das próprias est
 
 | Projeto | O que eu fiz | Stack |
 | --- | --- | --- |
-| **DevDek — Backend** 🔒 | A API e as regras do jogo: OAuth do GitHub emitindo JWTs, geração de cartas renderizadas em imagem no servidor, **batalhas de cartas em tempo real via WebSockets**, check-ins por geolocalização em checkpoints de empresas curados, envios da comunidade com fluxo de moderação e entrega de logos pelo Cloudflare R2. Migrei a persistência de Mongoose/MongoDB para **Prisma/PostgreSQL**. As regras de batalha são cobertas por scripts de simulação que verificam invariantes em milhares de duelos gerados. | `NestJS` · `TypeScript` · `Prisma` · `PostgreSQL` · `Socket.IO` · `Passport (GitHub OAuth, JWT)` · `Satori/resvg` · `Cloudflare R2` · `Docker` |
-| **DevDek — Mobile** 🔒 | App Android em **Expo** com expo-router, consumindo a mesma API do cliente web. OAuth do GitHub numa aba do navegador do sistema com deep link `devdek://` de volta (sem WebView embutida — o GitHub bloqueia OAuth nela, e o usuário precisa ver a barra de endereço), armazenamento seguro de token, coleção de cartas com filtros, mapa nativo com MapLibre, check-ins por GPS, QR pela câmera e renderização 3D com react-three-fiber. | `React Native` · `Expo` · `TypeScript` · `expo-router` · `MapLibre` · `react-three-fiber` · `expo-location` · `expo-secure-store` · `Socket.IO` |
+| **DevDek — Backend** | A API e as regras do jogo: OAuth do GitHub emitindo JWTs, geração de cartas renderizadas em imagem no servidor, **batalhas de cartas em tempo real via WebSockets**, check-ins por geolocalização em checkpoints de empresas curados, envios da comunidade com fluxo de moderação e entrega de logos pelo Cloudflare R2. Migrei a persistência de Mongoose/MongoDB para **Prisma/PostgreSQL**. As regras de batalha são cobertas por scripts de simulação que verificam invariantes em milhares de duelos gerados. | `NestJS` · `TypeScript` · `Prisma` · `PostgreSQL` · `Socket.IO` · `Passport (GitHub OAuth, JWT)` · `Satori/resvg` · `Cloudflare R2` · `Docker` |
+| **DevDek — Mobile** | App Android em **Expo** com expo-router, consumindo a mesma API do cliente web. OAuth do GitHub numa aba do navegador do sistema com deep link `devdek://` de volta (sem WebView embutida — o GitHub bloqueia OAuth nela, e o usuário precisa ver a barra de endereço), armazenamento seguro de token, coleção de cartas com filtros, mapa nativo com MapLibre, check-ins por GPS, QR pela câmera e renderização 3D com react-three-fiber. | `React Native` · `Expo` · `TypeScript` · `expo-router` · `MapLibre` · `react-three-fiber` · `expo-location` · `expo-secure-store` · `Socket.IO` |
 
 #### Open source
 
@@ -218,7 +218,7 @@ Devs entram com o GitHub e viram uma carta de personagem feita das próprias est
 ---
 
 <p align="center">
-  🌐 <a href="https://portfolio.devdek.online">portfolio.devdek.online</a> · 📧 <a href="mailto:tabletgbd@gmail.com">tabletgbd@gmail.com</a> · 💼 <a href="https://www.linkedin.com/in/guilherme-boeira-damasio/">LinkedIn</a> · 📝 <a href="https://dev.to/guimk9">Dev.to</a>
+  <a href="https://portfolio.devdek.online">portfolio.devdek.online</a> · <a href="mailto:tabletgbd@gmail.com">tabletgbd@gmail.com</a> · <a href="https://www.linkedin.com/in/guilherme-boeira-damasio/">LinkedIn</a> · <a href="https://dev.to/guimk9">Dev.to</a>
 </p>
 
 <p align="center"><i>Open to conversations about backend architecture, distributed systems and applied AI.<br/>Aberto a conversas sobre arquitetura backend, sistemas distribuídos e IA aplicada.</i></p>
