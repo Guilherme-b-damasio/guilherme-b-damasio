@@ -2,15 +2,18 @@
 <h3 align="center">Backend Software Engineer · Node.js / TypeScript · PHP · AWS Serverless & Event-Driven Architecture</h3>
 
 <p align="center">
-  <a href="https://portfolio.devdek.online" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/guilherme-boeira-damasio/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge"/></a>
-  <a href="mailto:tabletgbd@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://dev.to/guimk9" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/></a>
-  <a href="https://instagram.com/guiboeirad" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://portfolio.devdek.online" target="_blank"><b>portfolio.devdek.online</b></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Guilherme-b-damasio" target="_blank"><img alt="GitHub" height="36" src="assets/icons/github.svg"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/guilherme-boeira-damasio/" target="_blank"><img alt="LinkedIn" height="36" src="assets/icons/linkedin.svg"/></a>&nbsp;
+  <a href="mailto:tabletgbd@gmail.com"><img alt="Email" height="36" src="assets/icons/gmail.svg"/></a>&nbsp;
+  <a href="https://dev.to/guimk9" target="_blank"><img alt="Dev.to" height="36" src="assets/icons/devto.svg"/></a>
 </p>
 
 <details open>
-<summary><picture><img alt="EN · Read in English" src="https://img.shields.io/badge/EN-Read%20in%20English-1F6FEB?style=for-the-badge&labelColor=30363D" align="center"/></picture></summary>
+<summary><img alt="EN · Read in English" height="36" src="assets/icons/lang-en.svg" align="center"/></summary>
 
 ### About
 
@@ -61,7 +64,7 @@ Devs sign in with GitHub and become a character card made of their own stats —
 </details>
 
 <details>
-<summary><picture><img alt="PT-BR · Ler em português" src="https://img.shields.io/badge/PT--BR-Ler%20em%20portugu%C3%AAs-2EA043?style=for-the-badge&labelColor=30363D" align="center"/></picture></summary>
+<summary><img alt="PT-BR · Ler em português" height="36" src="assets/icons/lang-pt.svg" align="center"/></summary>
 
 ### Sobre
 
@@ -115,110 +118,37 @@ Devs entram com o GitHub e viram uma carta de personagem feita das próprias est
 
 ## Tech Stack
 
-**Core**
-
-<p>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img alt="Express" src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img alt="Slim" src="https://img.shields.io/badge/Slim-6C78AF?style=for-the-badge"/>
-</p>
-
-**Cloud & Serverless**
-
-<p>
-  <img alt="AWS Lambda" src="https://img.shields.io/badge/AWS%20Lambda-FF9900?style=for-the-badge"/>
-  <img alt="Amazon SQS" src="https://img.shields.io/badge/Amazon%20SQS-FF4F8B?style=for-the-badge"/>
-  <img alt="Amazon SNS" src="https://img.shields.io/badge/Amazon%20SNS-FF4F8B?style=for-the-badge"/>
-  <img alt="Amazon S3" src="https://img.shields.io/badge/Amazon%20S3-569A31?style=for-the-badge"/>
-  <img alt="API Gateway" src="https://img.shields.io/badge/API%20Gateway-FF4F8B?style=for-the-badge"/>
-  <img alt="Serverless" src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white"/>
-</p>
-
-**Applied AI**
-
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img alt="Claude API" src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img alt="MCP" src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=white"/>
-  <img alt="RAG" src="https://img.shields.io/badge/RAG-4B5563?style=for-the-badge"/>
-  <img alt="sentence-transformers" src="https://img.shields.io/badge/sentence--transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-</p>
-
-**Databases**
-
-<p>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-  <img alt="Prisma" src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
-</p>
-
-**DevOps & Infrastructure**
-
-<p>
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Bitbucket" src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white"/>
-  <img alt="NGINX" src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
-</p>
-
-**Observability & Testing**
-
-<p>
-  <img alt="Sentry" src="https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white"/>
-  <img alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
-  <img alt="pytest" src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white"/>
-  <img alt="Cypress" src="https://img.shields.io/badge/Cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=black"/>
-  <img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
-  <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-</p>
+<table>
+  <tr>
+    <td><b>Core</b></td>
+    <td><img alt="Node.js" title="Node.js" width="44" src="assets/icons/nodejs.svg"/> <img alt="NestJS" title="NestJS" width="44" src="assets/icons/nestjs.svg"/> <img alt="Express" title="Express" width="44" src="assets/icons/express.svg"/> <img alt="TypeScript" title="TypeScript" width="44" src="assets/icons/ts.svg"/> <img alt="JavaScript" title="JavaScript" width="44" src="assets/icons/js.svg"/> <img alt="PHP" title="PHP" width="44" src="assets/icons/php.svg"/> <img alt="Laravel" title="Laravel" width="44" src="assets/icons/laravel.svg"/> <img alt="Slim" title="Slim" width="44" src="assets/icons/slim.svg"/></td>
+  </tr>
+  <tr>
+    <td><b>Cloud & Serverless</b></td>
+    <td><img alt="AWS" title="AWS" width="44" src="assets/icons/aws.svg"/> <img alt="AWS Lambda" title="AWS Lambda" width="44" src="assets/icons/lambda.svg"/> <img alt="Amazon SQS" title="Amazon SQS" width="44" src="assets/icons/sqs.svg"/> <img alt="Amazon SNS" title="Amazon SNS" width="44" src="assets/icons/sns.svg"/> <img alt="Amazon S3" title="Amazon S3" width="44" src="assets/icons/s3.svg"/> <img alt="API Gateway" title="API Gateway" width="44" src="assets/icons/apigateway.svg"/> <img alt="Serverless Framework" title="Serverless Framework" width="44" src="assets/icons/serverless.svg"/></td>
+  </tr>
+  <tr>
+    <td><b>Applied AI</b></td>
+    <td><img alt="Python" title="Python" width="44" src="assets/icons/python.svg"/> <img alt="Claude API" title="Claude API" width="44" src="assets/icons/claude.svg"/> <img alt="MCP" title="MCP" width="44" src="assets/icons/mcp.svg"/> <img alt="RAG" title="RAG" width="44" src="assets/icons/rag.svg"/> <img alt="sentence-transformers (Hugging Face)" title="sentence-transformers (Hugging Face)" width="44" src="assets/icons/huggingface.svg"/></td>
+  </tr>
+  <tr>
+    <td><b>Databases</b></td>
+    <td><img alt="PostgreSQL" title="PostgreSQL" width="44" src="assets/icons/postgres.svg"/> <img alt="MySQL" title="MySQL" width="44" src="assets/icons/mysql.svg"/> <img alt="MongoDB" title="MongoDB" width="44" src="assets/icons/mongodb.svg"/> <img alt="Redis" title="Redis" width="44" src="assets/icons/redis.svg"/> <img alt="SQLite" title="SQLite" width="44" src="assets/icons/sqlite.svg"/> <img alt="Prisma" title="Prisma" width="44" src="assets/icons/prisma.svg"/></td>
+  </tr>
+  <tr>
+    <td><b>DevOps & Infrastructure</b></td>
+    <td><img alt="Kubernetes" title="Kubernetes" width="44" src="assets/icons/kubernetes.svg"/> <img alt="Docker" title="Docker" width="44" src="assets/icons/docker.svg"/> <img alt="GitHub Actions" title="GitHub Actions" width="44" src="assets/icons/githubactions.svg"/> <img alt="Jenkins" title="Jenkins" width="44" src="assets/icons/jenkins.svg"/> <img alt="Git" title="Git" width="44" src="assets/icons/git.svg"/> <img alt="Bitbucket" title="Bitbucket" width="44" src="assets/icons/bitbucket.svg"/> <img alt="NGINX" title="NGINX" width="44" src="assets/icons/nginx.svg"/></td>
+  </tr>
+  <tr>
+    <td><b>Observability & Testing</b></td>
+    <td><img alt="Sentry" title="Sentry" width="44" src="assets/icons/sentry.svg"/> <img alt="Jest" title="Jest" width="44" src="assets/icons/jest.svg"/> <img alt="pytest" title="pytest" width="44" src="assets/icons/pytest.svg"/> <img alt="PHPUnit" title="PHPUnit" width="44" src="assets/icons/phpunit.svg"/> <img alt="Cypress" title="Cypress" width="44" src="assets/icons/cypress.svg"/> <img alt="Selenium" title="Selenium" width="44" src="assets/icons/selenium.svg"/> <img alt="Postman" title="Postman" width="44" src="assets/icons/postman.svg"/></td>
+  </tr>
+</table>
 
 <details>
 <summary><b>Also worked with</b></summary>
 <br/>
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img alt="Apache Kafka" src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
-  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img alt="Expo" src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white"/>
-</p>
+
+<img alt="Java" title="Java" width="44" src="assets/icons/java.svg"/> <img alt="Spring Boot" title="Spring Boot" width="44" src="assets/icons/spring.svg"/> <img alt="Apache Kafka" title="Apache Kafka" width="44" src="assets/icons/kafka.svg"/> <img alt="Next.js" title="Next.js" width="44" src="assets/icons/nextjs.svg"/> <img alt="React" title="React" width="44" src="assets/icons/react.svg"/> <img alt="Vue.js" title="Vue.js" width="44" src="assets/icons/vue.svg"/> <img alt="Tailwind CSS" title="Tailwind CSS" width="44" src="assets/icons/tailwind.svg"/> <img alt="Expo" title="Expo" width="44" src="assets/icons/expo.svg"/>
+
 </details>
-
-**Architecture & practices**
-
-`Event-Driven Architecture` · `Microservices` · `REST APIs` · `Clean Architecture` · `DDD` · `SOLID` · `TDD` · `Code Review` · `Scrum` · `Kanban` · `LLM Integration` · `RAG` · `MCP Servers`
-
----
-
-## GitHub
-
-<p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Guilherme-b-damasio&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D"/>
-</p>
-
-<p align="center">
-  <img alt="Followers" src="https://img.shields.io/github/followers/Guilherme-b-damasio?style=for-the-badge&logo=github&color=1F6FEB&labelColor=0D1117"/>
-  <img alt="Stars" src="https://img.shields.io/github/stars/Guilherme-b-damasio?style=for-the-badge&logo=github&color=1F6FEB&labelColor=0D1117"/>
-</p>
-
----
-
-<p align="center">
-  <a href="https://portfolio.devdek.online">portfolio.devdek.online</a> · <a href="mailto:tabletgbd@gmail.com">tabletgbd@gmail.com</a> · <a href="https://www.linkedin.com/in/guilherme-boeira-damasio/">LinkedIn</a> · <a href="https://dev.to/guimk9">Dev.to</a>
-</p>
-
-<p align="center"><i>Open to conversations about backend architecture, distributed systems and applied AI.<br/>Aberto a conversas sobre arquitetura backend, sistemas distribuídos e IA aplicada.</i></p>
