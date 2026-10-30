@@ -12,9 +12,6 @@
   <a href="https://dev.to/guimk9" target="_blank"><img alt="Dev.to" height="36" src="assets/icons/devto.svg"/></a>
 </p>
 
-<details open>
-<summary><img alt="EN · Read in English" height="36" src="assets/icons/lang-en.svg" align="center"/></summary>
-
 ### About
 
 Backend engineer based in Joinville, Brazil, working on systems that have to stay up and stay correct under load.
@@ -60,59 +57,6 @@ Devs sign in with GitHub and become a character card made of their own stats —
 | [**Asaas Payment Gateway for Bagisto**](https://github.com/Guilherme-b-damasio/AsaasApiBagisto) | Two complementary packages integrating the Asaas gateway into Bagisto — PIX, boleto and credit card — exposing REST endpoints and handling payment webhooks (`PAYMENT_CONFIRMED`, `PAYMENT_RECEIVED`, `PAYMENT_REFUNDED`). | `PHP 8.1+` · `Laravel` · `Bagisto` · `REST API` · `Webhooks` |
 | [**VulnUI**](https://github.com/Guilherme-b-damasio/vulnui) | Dashboard that orchestrates **OWASP ZAP** and **Nikto** scans from a single interface: spider crawling, active scanning, real-time progress and report history with risk categorization. | `Next.js 15` · `TypeScript` · `Tailwind CSS 4` · `Docker` |
 | [**vuln.ai**](https://github.com/Guilherme-b-damasio/vuln.ai) | The scanning engine behind VulnUI — a Python orchestrator that drives the ZAP API and the Nikto CLI and consolidates the findings. | `Python` · `OWASP ZAP API` · `Nikto` |
-
-</details>
-
-<details>
-<summary><img alt="PT-BR · Ler em português" height="36" src="assets/icons/lang-pt.svg" align="center"/></summary>
-
-### Sobre
-
-Engenheiro backend em Joinville (SC), trabalhando em sistemas que precisam continuar no ar e continuar corretos sob carga.
-
-- **Hoje:** APIs em **Node.js (Express, NestJS) com TypeScript** para uma plataforma de rastreamento veicular e gestão de frotas — um **pipeline orientado a eventos em SQS/SNS que processa milhões de posições de rastreadores por dia**, com processamento assíncrono e reprocessamento resiliente. **AWS Lambda** para cargas assíncronas e integrações, **dispositivos IoT** e sistemas de terceiros, e os serviços rodando em **Kubernetes (EKS/Rancher)** com seus pipelines de deploy no GitHub Actions.
-- **Antes:** ~2 anos com **PHP** em uma plataforma LIMS, implementando rotinas de cálculo críticas com **DDD e Clean Architecture** e levando a cobertura de testes de **10% para 40%** com PHPUnit enquanto refatorava módulos legados.
-- **Aprendendo em público:** **IA aplicada** — integrações com LLMs, RAG e **servidores MCP**. O [docsage](https://github.com/Guilherme-b-damasio/docsage) é onde isso vai parar.
-
-O que me importa: fronteiras claras, testes que significam alguma coisa, observabilidade antes do incidente e código que a próxima pessoa consegue ler.
-
----
-
-### Em destaque: docsage
-
-> **Faça perguntas aos seus próprios documentos** — uma CLI de RAG e servidor MCP em Python, feita com Claude.
-
-O [**docsage**](https://github.com/Guilherme-b-damasio/docsage) indexa arquivos Markdown, texto, HTML, Word e PDF (e páginas web por URL), recupera os trechos mais relevantes e pede ao Claude uma resposta que **cita as fontes** — até o caminho de títulos ou a página do PDF.
-
-- **Recuperação configurável:** BM25, embeddings locais (sentence-transformers) ou **híbrida** com reciprocal rank fusion, além de **re-ranking opcional pelo Claude**
-- **Medido, não chutado:** `docsage evaluate` calcula recall@k sobre consultas rotuladas; cada resultado explica a pontuação termo a termo
-- **Servidor MCP** (stdio e HTTP) para o Claude Code e o Claude Desktop pesquisarem seus documentos, com relatórios HTML via **MCP Apps** mostrando as citações destacadas
-- Indexação incremental, prompt caching, uso de tokens e custo por resposta, ciente de inglês e português
-- Clean Architecture (domain / application / infrastructure / interfaces), SOLID, **460+ testes**, CI com ruff e mypy, git flow
-
-`Python` · `Claude API` · `MCP` · `BM25` · `sentence-transformers` · `pytest`
-
-### O que eu construí
-
-#### DevDek — um jogo de cartas colecionáveis sobre a cena tech de Joinville
-
-Devs entram com o GitHub e viram uma carta de personagem feita das próprias estatísticas — linguagens como poderes, atividade, badges. Empresas são checkpoints num mapa 3D: chegue fisicamente perto de uma e ganhe a carta-badge dela. Dois códigos separados, privados por enquanto — veja em [portfolio.devdek.online](https://portfolio.devdek.online).
-
-| Projeto | O que eu fiz | Stack |
-| --- | --- | --- |
-| **DevDek — Backend** | A API e as regras do jogo: OAuth do GitHub emitindo JWTs, geração de cartas renderizadas em imagem no servidor, **batalhas de cartas em tempo real via WebSockets**, check-ins por geolocalização em checkpoints de empresas curados, envios da comunidade com fluxo de moderação e entrega de logos pelo Cloudflare R2. Migrei a persistência de Mongoose/MongoDB para **Prisma/PostgreSQL**. As regras de batalha são cobertas por scripts de simulação que verificam invariantes em milhares de duelos gerados. | `NestJS` · `TypeScript` · `Prisma` · `PostgreSQL` · `Socket.IO` · `Passport (GitHub OAuth, JWT)` · `Satori/resvg` · `Cloudflare R2` · `Docker` |
-| **DevDek — Mobile** | App Android em **Expo** com expo-router, consumindo a mesma API do cliente web. OAuth do GitHub numa aba do navegador do sistema com deep link `devdek://` de volta (sem WebView embutida — o GitHub bloqueia OAuth nela, e o usuário precisa ver a barra de endereço), armazenamento seguro de token, coleção de cartas com filtros, mapa nativo com MapLibre, check-ins por GPS, QR pela câmera e renderização 3D com react-three-fiber. | `React Native` · `Expo` · `TypeScript` · `expo-router` · `MapLibre` · `react-three-fiber` · `expo-location` · `expo-secure-store` · `Socket.IO` |
-
-#### Open source
-
-| Projeto | O que é | Stack |
-| --- | --- | --- |
-| [**docsage**](https://github.com/Guilherme-b-damasio/docsage) | RAG sobre os seus próprios documentos: CLI e servidor MCP que indexam Markdown, HTML, Word, PDF e páginas web, recuperam com BM25 / embeddings / busca híbrida e respondem com o Claude, citando as fontes. | `Python` · `Claude API` · `MCP` · `sentence-transformers` |
-| [**Asaas Payment Gateway para Bagisto**](https://github.com/Guilherme-b-damasio/AsaasApiBagisto) | Dois pacotes complementares que integram o gateway Asaas ao Bagisto — PIX, boleto e cartão de crédito — expondo endpoints REST e tratando os webhooks de pagamento (`PAYMENT_CONFIRMED`, `PAYMENT_RECEIVED`, `PAYMENT_REFUNDED`). | `PHP 8.1+` · `Laravel` · `Bagisto` · `REST API` · `Webhooks` |
-| [**VulnUI**](https://github.com/Guilherme-b-damasio/vulnui) | Dashboard que orquestra varreduras do **OWASP ZAP** e do **Nikto** numa única interface: spider, varredura ativa, progresso em tempo real e histórico de relatórios com classificação de risco. | `Next.js 15` · `TypeScript` · `Tailwind CSS 4` · `Docker` |
-| [**vuln.ai**](https://github.com/Guilherme-b-damasio/vuln.ai) | O motor de varredura por trás do VulnUI — um orquestrador em Python que controla a API do ZAP e a CLI do Nikto e consolida os achados. | `Python` · `OWASP ZAP API` · `Nikto` |
-
-</details>
 
 ---
 
