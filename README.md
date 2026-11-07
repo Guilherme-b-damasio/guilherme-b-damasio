@@ -2,7 +2,7 @@
 <h3 align="center">Backend Software Engineer · Node.js / TypeScript · PHP · AWS Serverless & Event-Driven Architecture</h3>
 
 <p align="center">
-  <a href="https://guilhermeboeira.devdek.online" target="_blank"><b>portfolio.devdek.online</b></a>
+  <a href="https://guilhermeboeira.devdek.online" target="_blank"><b>guilhermeboeira.devdek.online</b></a>
 </p>
 
 <p align="center">
