@@ -96,3 +96,5 @@ Devs sign in with GitHub and become a character card made of their own stats —
 <img alt="Java" title="Java" width="44" src="assets/icons/java.svg"/> <img alt="Spring Boot" title="Spring Boot" width="44" src="assets/icons/spring.svg"/> <img alt="Apache Kafka" title="Apache Kafka" width="44" src="assets/icons/kafka.svg"/> <img alt="Next.js" title="Next.js" width="44" src="assets/icons/nextjs.svg"/> <img alt="React" title="React" width="44" src="assets/icons/react.svg"/> <img alt="Vue.js" title="Vue.js" width="44" src="assets/icons/vue.svg"/> <img alt="Tailwind CSS" title="Tailwind CSS" width="44" src="assets/icons/tailwind.svg"/> <img alt="Expo" title="Expo" width="44" src="assets/icons/expo.svg"/>
 
 </details>
+
+[![Minha carta DevDek](https://api.devdek.online/api/cards/login:Guilherme-b-damasio/image?w=344)](https://www.devdek.online)
